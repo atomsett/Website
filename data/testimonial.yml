@@ -2,7 +2,7 @@ enable: true
 title: Some facts about us
 
 numbers:
-  - counter: 3
+  - counter: 4
     text: developers
   - counter: 3
     text: weeks of existence!
@@ -16,15 +16,19 @@ people:
       Founder
     image: img/amity-jack.png
     name: Amity Jack
+    - text: >
+      Amity Patron
+    image: img/madmax.png
+    name: madmax
   - text: >
-      Service Developer
+      Junior Service Developer
     image: img/saj2.png
     name: Sajo8
+  - text: >
+      Junior Service Developer
+    image: img/Watt3r.png
+    name: Watt Erikson
   - text: >
       Service Developer
     image: img/Xandar.png
     name: Xandar
-  - text: >
-      Amity Patron
-    image: img/madmax.png
-    name: madmax
