@@ -1,0 +1,2 @@
+# Website
+The AmityCoin website
