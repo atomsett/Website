@@ -33,7 +33,7 @@ theme = "airspace-hugo"
   [params.feature]
     enable = true
     title = "What we've Done"
-    content = " - - Listed on ForkMaps <br> <br> - LWMA-2 Difficulty Algorithm <br> <br> - CryptoNightV7 Hashing Algorithm <br> <br> - 2 paper wallet generator's <br> <br> - Linux GUI Wallet"
+    content = " - - Listed on ForkMaps <br> <br> - LWMA-2 Difficulty Algorithm <br> <br> - CryptoNightV7 Hashing Algorithm <br> <br> - 2 paper wallet generators <br> <br> - Linux GUI Wallet"
 
   [params.call]
     enable = false
