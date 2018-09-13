@@ -3,13 +3,13 @@ title: Some facts about us
 
 numbers:
   - counter: 4
-    text: developer’s
+    text: developers
   - counter: 298
     text: total block reward
-  - counter: 90
-    text: second block time’s
+  - counter: 2
+    text: minute block times
   - counter: 3
-    text: super cool website’s
+    text: super cool websites
 
 people:
   - text: >
