@@ -10,5 +10,5 @@ GPLv3
 
 ## Contributors
 
-Sajo8
+Sajo8  
 Amity Jack
