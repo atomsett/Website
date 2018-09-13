@@ -8,7 +8,7 @@ numbers:
     text: total block reward
   - counter: 2
     text: minute block times
-  - counter: 3
+  - counter: 5
     text: super cool websites
 
 people:
